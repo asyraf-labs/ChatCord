@@ -1,7 +1,7 @@
 # ChatCord App
 Realtime chat app with websockets using Node.js, Express and Socket.io with Vanilla JS on the frontend with a custom UI
 
-[![Alt text for your video](video/screenshot_youtube.PNG)]
+[![Chat Messaging app](video/ezgif.com-video-to-gif.gif)]
 
 ## Usage
 ```
